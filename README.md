@@ -18,12 +18,12 @@ Welcome to my profile! I'm passionate about **coding**, **tech**, and building c
 - ✨ Creating colorful and animated websites and some Detabase 
 - 📖 Listening to audiobooks & running my YouTube channel ["Story Heaven 7"](https://youtube.com/@story_heaven_7?si=wd6K16LdRpYzpufe)
 - ⚙️ Exploring new tools and technologies
-- 🧩 Solving coding puzzles
+- 🧩 Solving some coding puzzles
 
 ## 📫 Let's Connect!
 - 🌐 Portfolio: Coming Soon!
 - ✉️ Email: [laxucoder@gmail.com]
-- 📍 From: Maharashtra, India
+- 📍 From: wadsa, Maharashtra, India
 
 ---
 
