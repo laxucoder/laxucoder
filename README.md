@@ -21,7 +21,7 @@ Welcome to my profile! I'm passionate about **coding**, **tech**, and building c
 - 🧩 Solving some coding puzzles
 
 ## 📫 Let's Connect!
-- 🌐 Portfolio: Coming Soon!
+- 🌐 New-Portfolio: Coming Soon!
 - ✉️ Email: [laxucoder@gmail.com]
 - 📍 From: wadsa, Maharashtra, India
 
