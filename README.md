@@ -28,4 +28,4 @@ Welcome to my profile! I'm passionate about **coding**, **tech**, and building c
 ---
 
 **Thanks for visiting my profile!**  
-_“Made with love by Laxman Panigrahi”_ 🛠️❤️
+🗣️ _“Powered by passion...”_ 🛠️❤️
