@@ -3,7 +3,7 @@
 Welcome to my profile! I'm passionate about **coding**, **tech**, and building cool digital stuff. Here's a little about me:
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on improving my **programing** skills.
+- 🔭 I’m laxman and currently working on improving my **programing** skills.
 - 🌱 Learning **JavaScript**, **CSS**, and more every day!
 - 🎯 Goal: Become a skilled programmer and tech creator.
 - 📚 Student | 🧠 Self-learner | 💡 Dreamer
