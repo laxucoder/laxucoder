@@ -56,7 +56,9 @@
 
 ---
 
-# 📊 GitHub Stats & Contribution Overview
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=laxucoder&theme=radical"/>
 
 # 📈 Contribution Graph
 
