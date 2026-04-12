@@ -56,18 +56,29 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laxucoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+📊 GitHub Stats & Contribution Overview
 
-![](https://nirzak-streak-stats.vercel.app/?user=laxucoder&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxucoder&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=laxucoder&theme=radical&hide_border=true"/>
+</p>---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laxucoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📈 Contribution Graph
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxucoder&theme=github-compact"/>---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=laxucoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+📊 Extra Graph (Repo Stats)
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxucoder&theme=radical"/>---
 
-<!-- Proudly created with GPRM -->
+💻 Top Languages by Repo
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laxucoder&theme=radical"/>---
+
+💻 Top Languages by Commit
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laxucoder&theme=radical"/>---
+
+⏱️ Commit Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laxucoder&theme=radical"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laxucoder&theme=radical&utcOffset=5.5"/>
