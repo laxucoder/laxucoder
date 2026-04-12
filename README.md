@@ -56,29 +56,24 @@
 
 ---
 
-📊 GitHub Stats & Contribution Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxucoder&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=laxucoder&theme=radical&hide_border=true"/>
-</p>---
+# 📊 GitHub Stats & Contribution Overview
 
 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxucoder&theme=github-compact"/>---
 
-📊 Extra Graph (Repo Stats)
+# 📊 Extra Graph (Repo Stats)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxucoder&theme=radical"/>---
 
-💻 Top Languages by Repo
+# 💻 Top Languages by Repo
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laxucoder&theme=radical"/>---
 
-💻 Top Languages by Commit
+# 💻 Top Languages by Commit
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laxucoder&theme=radical"/>---
 
-⏱️ Commit Stats
+# ⏱️ Commit Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laxucoder&theme=radical"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laxucoder&theme=radical&utcOffset=5.5"/>
