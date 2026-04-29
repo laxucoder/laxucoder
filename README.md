@@ -60,10 +60,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=laxucoder&theme=radical"/>
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxucoder&theme=github-compact"/>---
-
 # 📊 Extra Graph (Repo Stats)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laxucoder&theme=radical"/>---
